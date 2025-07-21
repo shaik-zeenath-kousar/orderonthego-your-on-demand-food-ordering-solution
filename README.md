@@ -1,3 +1,12 @@
+# 🍽️ orderonthego-your-on-demand-food-ordering-solution
+
+**orderonthego-your-on-demand-food-ordering-solution** is a convenient and fast way to place orders for food/products on the go. This system allows users to browse products, make purchases, and track orders — all from their mobile or desktop devices.  
+The platform is designed to improve the speed and efficiency of ordering for both users and vendors.
+
+
+---
+
+
 [# orderonthego-your-on-demand-food-ordering-solution
 Demo - <a href="https://drive.google.com/file/d/1DLog3a51djjwvSNz1WrkB0uMwp-8e3c1/view?usp=drivesdk">VIEW VIDEO</a>
 
@@ -100,12 +109,6 @@ Order-On-The-Go/
 └── README.md
 
 
-
-
-# 🍽️ Order-On-The-Go
-
-**Order-On-The-Go** is a convenient and fast way to place orders for food/products on the go. This system allows users to browse products, make purchases, and track orders — all from their mobile or desktop devices.  
-The platform is designed to improve the speed and efficiency of ordering for both users and vendors.
 
 ---
 
