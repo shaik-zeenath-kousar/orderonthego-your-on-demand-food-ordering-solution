@@ -7,17 +7,6 @@ The platform is designed to improve the speed and efficiency of ordering for bot
 ---
 
 
-[# orderonthego-your-on-demand-food-ordering-solution
-Demo - <a href="https://drive.google.com/file/d/1DLog3a51djjwvSNz1WrkB0uMwp-8e3c1/view?usp=drivesdk">VIEW VIDEO</a>
-
-
-Documentation -<a href="https://docs.google.com/document/d/1aSGhfxFfMYMJChknR-pL47FW-idnhj2F/edit?usp=sharing&ouid=107917445781301743104&rtpof=true&sd=true">VIEW DOCUMENTATION </a>
-
-
-PPT -<a href="https://www.canva.com/design/DAGr73dEvwY/SHf8qVJavnbW1fiQh3uewg/view?utm_content=DAGr73dEvwY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h77f2db05c4">VIEW PPT</a>
-
-
-
 
 # Project Files Structure
 Order-On-The-Go/
@@ -190,4 +179,17 @@ npm start
 💳 Checkout and complete payment.
 
 📄 Track Orders and view history in your account section.
-## 📁 Project Files Structure
+orderonthego-your-on-demand-food-ordering-solution
+
+
+---
+
+
+Demo - <a href="https://drive.google.com/file/d/1DLog3a51djjwvSNz1WrkB0uMwp-8e3c1/view?usp=drivesdk">VIEW VIDEO</a>
+
+
+Documentation -<a href="https://docs.google.com/document/d/1aSGhfxFfMYMJChknR-pL47FW-idnhj2F/edit?usp=sharing&ouid=107917445781301743104&rtpof=true&sd=true">VIEW DOCUMENTATION </a>
+
+
+PPT -<a href="https://www.canva.com/design/DAGr73dEvwY/SHf8qVJavnbW1fiQh3uewg/view?utm_content=DAGr73dEvwY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h77f2db05c4">VIEW PPT</a>
+
