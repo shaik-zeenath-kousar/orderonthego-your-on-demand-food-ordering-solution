@@ -1,4 +1,4 @@
-[# Food-Ordering-App-MERNSTACK
+[# orderonthego-your-on-demand-food-ordering-solution
 Demo - <a href="https://drive.google.com/file/d/1DLog3a51djjwvSNz1WrkB0uMwp-8e3c1/view?usp=drivesdk">VIEW VIDEO</a>
 
 
@@ -99,7 +99,7 @@ Order-On-The-Go/
 
 └── README.md
 
-](https://github.com/shaik-zeenath-kousar/orderonthego-your-on-demand-food-ordering-solution/tree/main/Client)
+
 
 
 # 🍽️ Order-On-The-Go
