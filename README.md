@@ -12,48 +12,91 @@ PPT -<a href="https://www.canva.com/design/DAGr73dEvwY/SHf8qVJavnbW1fiQh3uewg/vi
 
 # Project Files Structure
 Order-On-The-Go/
+
 ├── Client/
+
 │   ├── public/
+
 │   │   ├── index.html
+
 │   │   ├── manifest.json
+
 │   │   └── robots.txt
+
 │   ├── src/
+
 │   │   ├── Pages/
+
 │   │   │   ├── admin/
+
 │   │   │   │   ├── Admin.jsx
+
 │   │   │   │   ├── AllOrders.jsx
+
 │   │   │   │   ├── AllProducts.jsx
+
 │   │   │   │   └── AllRestaurants.jsx
+
 │   │   │   │   └── AllUsers.jsx
+
 │   │   │   ├── customer/
+
 │   │   │   │   ├── CategoryProducts.jsx
+
 │   │   │   │   ├── IndividualRestaurant.jsx
+
 │   │   │   │   ├── Profile.jsx
+
 │   │   │   │   └── cart.jsx
+
 │   │   │   ├── restaurant/
+
 │   │   │   │   ├── Authentication.jsx
+
 │   │   │   │   └── Home.jsx
+
 │   │   ├── components/
+
 │   │   │   ├── Navbar.jsx
+
 │   │   │   ├── PopularRestaurant.jsx
+
 │   │   │   ├── Register.jsx
+
 │   │   │   ├── Restaurants.jsx
+
 │   │   │   ├── footer.jsx
+
 │   │   │   └── login.jsx
+
 │   │   ├── context/
+
 │   │   │   └── GeneralContext.js
+
 │   │   ├── App.js
+
 │   │   ├── App.test.js
+
 │   │   ├── index.css
+
 │   │   ├── index.js
+
 │   │   ├── reportWebVitals.js
+
 │   │   └── setupTests.js
+
 │   ├── package.json
+
 │   └── package-lock.json
+
 │
+
 ├── Server/
+
 │   └── (Spring Boot backend files: src/, controllers/, models/, etc.)
+
 │
+
 └── README.md
 
 ](https://github.com/shaik-zeenath-kousar/orderonthego-your-on-demand-food-ordering-solution/tree/main/Client)
